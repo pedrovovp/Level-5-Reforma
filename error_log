@@ -1,0 +1,9 @@
+[30-Aug-2019 15:41:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/level364/public_html/sendemail.php on line 51
+[30-Aug-2019 15:42:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/level364/public_html/sendemail.php on line 51
+[30-Aug-2019 15:46:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home2/level364/public_html/sendemail.php on line 57
+[30-Aug-2019 15:54:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
+[12-Sep-2019 14:35:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
+[14-Sep-2019 10:09:34 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
+[19-Sep-2019 10:05:19 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
+[25-Sep-2019 13:58:26 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
+[04-Oct-2019 16:30:49 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/level364/public_html/sendemail.php:53) in /home2/level364/public_html/sendemail.php on line 54
